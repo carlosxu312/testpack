@@ -1,0 +1,19 @@
+{
+    "name": "carlosxu312/pagek",
+    "description": "test pack",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xuliwei",
+            "email": "srj520w@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Hello\\": "src/"
+        }
+    }
+}
