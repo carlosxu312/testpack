@@ -1,0 +1,1 @@
+修改sublime text 3 git 插件的乱码的修复 
